@@ -1,4 +1,4 @@
-## Amazon Clone - Build in progress
+## Discord Clone
 
 [https://discord-clo.web.app/](https://discord-clo.web.app/)
 
